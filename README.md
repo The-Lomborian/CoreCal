@@ -1,4 +1,4 @@
-SimpleCalc
+BasicCal
 
 A minimalist, functional calculator with basic and scientific modes, built with HTML, CSS, and JavaScript.
 Features
