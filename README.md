@@ -11,7 +11,7 @@ Features
 - 
 Installation & Usage
 - Clone the repository:
-git clone https://github.com/Lombos/SimpleCalc.git
+git clone https://github.com/The-Lomborian/SimpleCalc.git
 
 - Open index.html in a browser.
 - Use the calculator in either basic or scientific mode.
